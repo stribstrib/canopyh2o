@@ -2,7 +2,9 @@
 title: "Pilot Markdown Doc"
 author: "stribling"
 date: '2023-02-22'
-output: html_document
+output: 
+  html_document: 
+    keep_md: yes
 ---
 
 ```{r setup, include=FALSE}
